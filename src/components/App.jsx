@@ -23,6 +23,10 @@ const App = () => {
             <Route path="/career" element={<Career />}/>
           </Route>
         </Routes>
+        
+        <Routes>
+          <Route path="/dashboard" element={<div>dashboard</div>}/>
+        </Routes>
       </BrowserRouter>
     </>
   );
