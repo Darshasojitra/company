@@ -9,7 +9,7 @@ const Card = ({ img, heading, pera }) => {
   );
 };
 
-const FrontMenuCards = () => {
+const AboutMenuCards = () => {
   const cards = [
     {
       img: null,
@@ -53,14 +53,12 @@ const FrontMenuCards = () => {
     },
   ];
   return (
-    <section className="mb-32">
+    <section className="w-3/4 mx-auto mb-32">
       {/* Headings */}
-      <h2 className="pl-16 text-5xl tracking-wide font-bold">
-        We Build Brands
-      </h2>
-      <p className="pl-16 my-5 text-zinc-500 text-xl font-medium">
-        Empowering visionary ideas and ambitious projects to succeed.
+      <p className=" text-indigo-500 text-xl font-medium">
+        Excellence. Innovation. Trust.
       </p>
+      <h2 className="my-5 text-5xl tracking-wide font-bold">Why Choose Us ?</h2>
 
       {/* Cards */}
       <div className=" grid grid-cols-4 gap-5">
@@ -77,4 +75,4 @@ const FrontMenuCards = () => {
   );
 };
 
-export default FrontMenuCards;
+export default AboutMenuCards;

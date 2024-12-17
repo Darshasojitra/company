@@ -2,6 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
-/* .slick-slide > div {
-    margin: 0 14px;
-} */
+.slick-slide > div {
+    /* margin: 0 14px; */
+    padding: 14px 14px;
+    /* background-color: aquamarine; */
+}

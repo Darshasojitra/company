@@ -17,7 +17,7 @@ const FrontServices = () => {
             </button>
           </div>
 
-          {/* Image */}
+          {/* Cards */}
           <div className="w-6/12 p-5 columns-2 gap-5 rounded-xl">
             <div className="h-16" />
             <div className=" px-6 pt-8 pb-10 mb-5 rounded-xl shadow-lg bg-gray-200">

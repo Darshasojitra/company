@@ -23,7 +23,7 @@ const Feedback = () => {
 
       <Slider {...settings}>
         <div>
-          <div className="p-10 border-r-2">
+          <div className="p-10 border-r-2 shadow-lg bg-slate-100 rounded-2xl">
             <div className="mb-8 text-lg font-medium">Workcation</div>
 
             <p className="mb-10 text-justify text-lg">
@@ -47,7 +47,7 @@ const Feedback = () => {
         </div>
 
         <div>
-          <div className="p-10 border-r-2">
+          <div className="p-10 border-r-2 shadow-lg bg-slate-100 rounded-2xl">
             <div className="mb-8 text-lg font-medium">Workcation</div>
 
             <p className="mb-10 text-justify text-lg">
@@ -71,7 +71,7 @@ const Feedback = () => {
         </div>
 
         <div>
-          <div className="p-10 border-r-2">
+          <div className="p-10 border-r-2 shadow-lg bg-slate-100 rounded-2xl">
             <div className="mb-8 text-lg font-medium">Workcation</div>
 
             <p className="mb-10 text-justify text-lg">
@@ -95,7 +95,7 @@ const Feedback = () => {
         </div>
 
         <div>
-          <div className="p-10 border-r-2">
+          <div className="p-10 border-r-2 shadow-lg bg-slate-100 rounded-2xl">
             <div className="mb-8 text-lg font-medium">Workcation</div>
 
             <p className="mb-10 text-justify text-lg">
@@ -119,7 +119,7 @@ const Feedback = () => {
         </div>
 
         <div>
-          <div className="p-10 border-r-2">
+          <div className="p-10 border-r-2 shadow-lg bg-slate-100 rounded-2xl">
             <div className="mb-8 text-lg font-medium">Workcation</div>
 
             <p className="mb-10 text-justify text-lg">
@@ -143,7 +143,7 @@ const Feedback = () => {
         </div>
 
         <div>
-          <div className="p-10 border-r-2">
+          <div className="p-10 border-r-2 shadow-lg bg-slate-100 rounded-2xl">
             <div className="mb-8 text-lg font-medium">Workcation</div>
 
             <p className="mb-10 text-justify text-lg">
@@ -167,7 +167,7 @@ const Feedback = () => {
         </div>
 
         <div>
-          <div className="p-10 border-r-2">
+          <div className="p-10 border-r-2 shadow-lg bg-slate-100 rounded-2xl">
             <div className="mb-8 text-lg font-medium">Workcation</div>
 
             <p className="mb-10 text-justify text-lg">
@@ -191,7 +191,7 @@ const Feedback = () => {
         </div>
 
         <div>
-          <div className="p-10 border-r-2">
+          <div className="p-10 border-r-2 shadow-lg bg-slate-100 rounded-2xl">
             <div className="mb-8 text-lg font-medium">Workcation</div>
 
             <p className="mb-10 text-justify text-lg">
