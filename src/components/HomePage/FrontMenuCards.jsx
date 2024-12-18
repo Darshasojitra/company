@@ -18,7 +18,7 @@ const FrontMenuCards = () => {
     },
     {
       img: null,
-      heading: "Heading 3",
+      heading: "Heading 4",
       pera: "iwbef keriheriug huieug hiruh iuih iuehiu eugv u yewvue wu u gerge jgej hehr jeru e ehge hg eege jbdvj h hihih hkjh jghj hjh jhkjhjf gkjgjy gjhhgdfhj ghdf.",
     },
     {

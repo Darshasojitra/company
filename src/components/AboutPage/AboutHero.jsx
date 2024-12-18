@@ -15,24 +15,24 @@ const TeamMember = ({ name, role, image }) => {
 const AboutHero = () => {
   const teamMembers = [
     {
-      name: "Niraj Ojha",
+      name: "Maulik Gondaliya",
       role: "CEO",
-      image: `https://api.dicebear.com/5.x/initials/svg?seed=no`,
+      image: `https://api.dicebear.com/5.x/initials/svg?seed=mg`,
     },
     {
-      name: "Hena Chauhan",
-      role: "COO",
-      image: `https://api.dicebear.com/5.x/initials/svg?seed=hc`,
+      name: "Heta Sapariya",
+      role: "Marketing Manager",
+      image: `https://api.dicebear.com/5.x/initials/svg?seed=hs`,
     },
     {
-      name: "Mukesh Jha",
-      role: "CTO",
-      image: `https://api.dicebear.com/5.x/initials/svg?seed=mj`,
-    },
-    {
-      name: "Vedansh Thakur",
+      name: "Kunj Radadiya",
       role: "CFO",
-      image: `https://api.dicebear.com/5.x/initials/svg?seed=vt`,
+      image: `https://api.dicebear.com/5.x/initials/svg?seed=kr`,
+    },
+    {
+      name: "Harsh Rupavatiya",
+      role: "CTO",
+      image: `https://api.dicebear.com/5.x/initials/svg?seed=hr`,
     },
   ];
 

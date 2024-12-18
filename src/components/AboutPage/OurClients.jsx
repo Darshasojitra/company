@@ -3,7 +3,7 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
-const AboutClients = () => {
+const OurClients = () => {
   var settings = {
     dots: false,
     infinite: true,
@@ -37,4 +37,4 @@ const AboutClients = () => {
   );
 };
 
-export default AboutClients;
+export default OurClients;
