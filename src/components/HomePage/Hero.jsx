@@ -6,6 +6,7 @@ const Hero = () => {
           src="https://tailwindui.com/plus/img/beams-basic.png"
           className="scale-150"
         /> */}
+      <a  href="/comp.html" target="_blank"> 🌐 other company link</a>
     </section>
   );
 };
