@@ -17,7 +17,7 @@ const Navbar = () => {
     { path: "/blog", name: "Blog" },
     { path: "/contactus", name: "Contact Us" },
     { path: "/career", name: "Career" },
-    {path:"/company/comp.html", name :"Other"}
+    // {path:"/company/comp.html", name :"Other"}
   ];
 
   return (
@@ -31,6 +31,7 @@ const Navbar = () => {
             name={button.name}
           />
         ))}
+            <div> <a  href="/company/comp.html" target="_blank">Other</a></div>
       </div>
     </div>
   );
